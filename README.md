@@ -18,6 +18,8 @@ The relational database is normalized and consists of four primary tables.
 3. `Transactions`: The core ledger of financial activity.
 4. `Alerts`: The destination table for flagged anomalies.
 
+![ER Diagram](Fraud%20Detection-ER.png)
+
 ## How to Run This Project (Setup Instructions)
 
 1. **Generate Data:** Run the Python data generator (or use the provided CSV files).
